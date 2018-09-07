@@ -1,6 +1,6 @@
 # Programming and Visualization for Business Analytics
 
-This page contains the course materials for the *Programming and Visualization for Business Analytics* of the [Erasmus Quantitative Intelligence](https://www.eur.nl/eqi/) programme at [Erasmus University Rotterdam](https://www.eur.nl/). 
+This page contains the course materials for the *Programming and Visualization for Business Analytics* module of the [Erasmus Quantitative Intelligence](https://www.eur.nl/eqi/) programme at [Erasmus University Rotterdam](https://www.eur.nl/). 
 
 The definitive materials will be shared on [Canvas](https://canvas.eur.nl/) once that is set up.
 
